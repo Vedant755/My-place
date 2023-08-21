@@ -13,7 +13,7 @@ My Place App
 - Used TomTom Map Api to display and the nearby place data 
 - Integrated Firebase authentication service, and its realtime database.
 
- **You can Download apk from [here](https://github.com/Rohit570git-hub/My-Place/tree/main/apk)**
+ **You can Download apk from [here](https://github.com/Vedant755/My-place/blob/main/apk/MyPlace.apk)**
 
 **App ScreenShot**
 
